@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr2">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_core_2025-2026.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr2/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1264/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_2001/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_2012/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lildedus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lildedus/java_core_2025-2026.git&quot;,
+    &quot;accountId&quot;: &quot;71bb8799-25d4-4e0e-a484-6fd3531a5454&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35cS8MrqC4CDGC6Jtiz9VU9HL3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example1.executor": "Run",
+    "Application.Example10.executor": "Run",
+    "Application.Example11.executor": "Run",
+    "Application.Example12.executor": "Run",
+    "Application.Example13.executor": "Run",
+    "Application.Example14.executor": "Run",
+    "Application.Example15.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
+    "Application.Example5.executor": "Run",
+    "Application.Example6.executor": "Run",
+    "Application.Example7.executor": "Run",
+    "Application.Example8.executor": "Run",
+    "Application.Example9.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.lesson1.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task3.executor": "Run",
+    "Application.task4.executor": "Run",
+    "Application.timus.task_1000.Main.executor": "Run",
+    "Application.timus.task_1264.Main.executor": "Run",
+    "Application.timus.task_1293.Main.executor": "Coverage",
+    "Application.timus_1264.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alex/IdeaProjects/java_core_2025-2026",
+    "onboarding.tips.debug.path": "C:/Users/alex/IdeaProjects/java_core_2025-2026/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lr1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.Main" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.lesson1" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lr2.task1" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="timus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.task2" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.task3" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr2.task4" />
+      <module name="java_core_2025-2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.lesson1" />
+        <item itemvalue="Application.task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="" />
+      <created>1763407713076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763407713076</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lr2">
+      <option name="closed" value="true" />
+      <created>1763642903352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763642903352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr2" />
+  </component>
+</project>
