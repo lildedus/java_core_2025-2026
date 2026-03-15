@@ -4,22 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr3">
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_1880/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_1880/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_2100/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_2100/input.txt" afterDir="false" />
+    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr4">
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/LinkedListCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/AddOperationsComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/GetOperationsComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/RemoveOperationsComparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +70,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddOperationsComparison.executor": "Run",
+    "Application.DeleteMiddleSimple.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example10.executor": "Run",
     "Application.Example11.executor": "Run",
@@ -79,8 +87,20 @@
     "Application.Example7.executor": "Run",
     "Application.Example8.executor": "Run",
     "Application.Example9.executor": "Run",
+    "Application.FullCollectionComparison.executor": "Run",
+    "Application.GetByIndexComparison.executor": "Run",
+    "Application.GetOperationsComparison.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RemoveOperationsComparison.executor": "Run",
+    "Application.Test1.executor": "Debug",
+    "Application.Test2.executor": "Debug",
     "Application.lesson1.executor": "Run",
+    "Application.lr7.example1.Main.executor": "Run",
+    "Application.lr9.Example1.Main.executor": "Run",
+    "Application.lr9.Task3.Main.executor": "Run",
+    "Application.lr9.Task4.Main.executor": "Debug",
+    "Application.lr9.Task6.Main.executor": "Run",
+    "Application.lr9.Task7.Main.executor": "Debug",
     "Application.task1.executor": "Run",
     "Application.task10.executor": "Run",
     "Application.task2.executor": "Run",
@@ -126,13 +146,13 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
+  <component name="RunManager" selected="Application.RemoveOperationsComparison">
+    <configuration name="AddOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.AddOperationsComparison" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr9.Variant6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example7" />
+    <configuration name="GetOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.GetOperationsComparison" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr9.Variant6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
+    <configuration name="RemoveOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.RemoveOperationsComparison" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr9.Variant6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task_1880.Main" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Task5.Test1" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task_1880.*" />
+          <option name="PATTERN" value="lr9.Task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus.task_2100.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task_2100.Main" />
+    <configuration name="lr9.Task7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Task7.Main" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task_2100.*" />
+          <option name="PATTERN" value="lr9.Task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.timus.task_2100.Main" />
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.RemoveOperationsComparison" />
+        <item itemvalue="Application.GetOperationsComparison" />
+        <item itemvalue="Application.AddOperationsComparison" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.lr9.Task7.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +265,17 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lr2" />
     <MESSAGE value="lr3" />
@@ -257,6 +288,16 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr9/Task4/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr9/Task5/Test1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
