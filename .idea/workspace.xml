@@ -4,28 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr4">
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task4/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task5/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/LinkedListCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Task8/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/AddOperationsComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/GetOperationsComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr9/Variant6/RemoveOperationsComparison.java" afterDir="false" />
+    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr3">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_compress_1_27_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_25_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_5_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xmlbeans_5_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example3_4_5/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example3_4_5/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example3_4_5/ReadExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/Example3_4_5/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task1/LessonXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task1/lessons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task2/LessonJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task2/lessons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task3/NewsParserHTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task4/ExcelParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr10/task4/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_core_2025-2026.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_core_2025-2026.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +78,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.AddOperationsComparison.executor": "Run",
-    "Application.DeleteMiddleSimple.executor": "Run",
+    "Application.CreateXMLFile.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example10.executor": "Run",
     "Application.Example11.executor": "Run",
@@ -87,20 +94,21 @@
     "Application.Example7.executor": "Run",
     "Application.Example8.executor": "Run",
     "Application.Example9.executor": "Run",
-    "Application.FullCollectionComparison.executor": "Run",
-    "Application.GetByIndexComparison.executor": "Run",
-    "Application.GetOperationsComparison.executor": "Run",
+    "Application.ExcelParser.executor": "Run",
+    "Application.JsonCreator.executor": "Run",
+    "Application.JsonParser.executor": "Run",
+    "Application.LessonJSON.executor": "Run",
+    "Application.LessonXML.executor": "Run",
+    "Application.LinkParser.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.RemoveOperationsComparison.executor": "Run",
-    "Application.Test1.executor": "Debug",
-    "Application.Test2.executor": "Debug",
+    "Application.NewsParser.executor": "Run",
+    "Application.NewsParserHTML.executor": "Run",
+    "Application.ReadExcelFile.executor": "Run",
+    "Application.WriteExcelFile.executor": "Run",
+    "Application.XmlParser.executor": "Run",
     "Application.lesson1.executor": "Run",
-    "Application.lr7.example1.Main.executor": "Run",
-    "Application.lr9.Example1.Main.executor": "Run",
-    "Application.lr9.Task3.Main.executor": "Run",
-    "Application.lr9.Task4.Main.executor": "Debug",
-    "Application.lr9.Task6.Main.executor": "Run",
-    "Application.lr9.Task7.Main.executor": "Debug",
+    "Application.lr10.Example3_4.NewsParser.executor": "Run",
+    "Application.lr10.task4.ExcelParser.executor": "Run",
     "Application.task1.executor": "Run",
     "Application.task10.executor": "Run",
     "Application.task2.executor": "Run",
@@ -127,15 +135,20 @@
     "Application.timus.task_2066.Main.executor": "Run",
     "Application.timus.task_2100.Main.executor": "Run",
     "Application.timus_1264.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/alex/IdeaProjects/java_core_2025-2026",
     "onboarding.tips.debug.path": "C:/Users/alex/IdeaProjects/java_core_2025-2026/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync"
@@ -146,13 +159,13 @@
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveOperationsComparison">
-    <configuration name="AddOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.AddOperationsComparison" />
+  <component name="RunManager" selected="Application.lr10.task4.ExcelParser">
+    <configuration name="ExcelParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.task.ExcelParser" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.Variant6.*" />
+          <option name="PATTERN" value="lr10.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.GetOperationsComparison" />
+    <configuration name="LessonJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.task2.LessonJSON" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.Variant6.*" />
+          <option name="PATTERN" value="lr10.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOperationsComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Variant6.RemoveOperationsComparison" />
+    <configuration name="LessonXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.task1.LessonXML" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.Variant6.*" />
+          <option name="PATTERN" value="lr10.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Task5.Test1" />
+    <configuration name="NewsParserHTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.task3.NewsParserHTML" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.Task5.*" />
+          <option name="PATTERN" value="lr10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr9.Task7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr9.Task7.Main" />
+    <configuration name="lr10.task4.ExcelParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr10.task4.ExcelParser" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr9.Task7.*" />
+          <option name="PATTERN" value="lr10.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveOperationsComparison" />
-        <item itemvalue="Application.GetOperationsComparison" />
-        <item itemvalue="Application.AddOperationsComparison" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.lr9.Task7.Main" />
+        <item itemvalue="Application.lr10.task4.ExcelParser" />
+        <item itemvalue="Application.ExcelParser" />
+        <item itemvalue="Application.NewsParserHTML" />
+        <item itemvalue="Application.LessonJSON" />
+        <item itemvalue="Application.LessonXML" />
       </list>
     </recent_temporary>
   </component>
@@ -265,17 +278,6 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lr2" />
     <MESSAGE value="lr3" />
@@ -288,16 +290,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="9" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr9/Task4/Main.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr9/Task5/Test1.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
