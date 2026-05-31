@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr11">
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr12/Task6.java" afterDir="false" />
+    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr12">
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1196.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1224.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1545.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1636.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1837.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1881.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1893.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1991.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_2025.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr11/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr11/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr11/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr11/Task7.java" afterDir="false" />
@@ -56,110 +70,130 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CreateXMLFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExcelParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JsonCreator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JsonParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LessonJSON.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LessonXML.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewsParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewsParserHTML.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadExcelFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteExcelFile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XmlParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lr10.Example3_4.NewsParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lr10.task4.ExcelParser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task2_ver2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task3_ver1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task3_ver2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task3_with_do_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task4_with_do_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task4_with_for.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task4_with_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task5_with_do_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task5_with_for.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task5_with_while.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus.task_1000.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus.task_1264.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus.task_1293.Main.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.timus.task_1787.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus.task_2066.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus.task_2100.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.timus_1264.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alex/IdeaProjects/java_core_2025-2026&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/alex/IdeaProjects/java_core_2025-2026/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreateXMLFile.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example10.executor": "Run",
+    "Application.Example11.executor": "Run",
+    "Application.Example12.executor": "Run",
+    "Application.Example13.executor": "Run",
+    "Application.Example14.executor": "Run",
+    "Application.Example15.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.Example3.executor": "Run",
+    "Application.Example4.executor": "Run",
+    "Application.Example5.executor": "Run",
+    "Application.Example6.executor": "Run",
+    "Application.Example7.executor": "Run",
+    "Application.Example8.executor": "Run",
+    "Application.Example9.executor": "Run",
+    "Application.ExcelParser.executor": "Run",
+    "Application.JsonCreator.executor": "Run",
+    "Application.JsonParser.executor": "Run",
+    "Application.LessonJSON.executor": "Run",
+    "Application.LessonXML.executor": "Run",
+    "Application.LinkParser.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NewsParser.executor": "Run",
+    "Application.NewsParserHTML.executor": "Run",
+    "Application.ReadExcelFile.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task10.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task9.executor": "Run",
+    "Application.WriteExcelFile.executor": "Run",
+    "Application.XmlParser.executor": "Run",
+    "Application.lesson1.executor": "Run",
+    "Application.lr10.Example3_4.NewsParser.executor": "Run",
+    "Application.lr10.task4.ExcelParser.executor": "Run",
+    "Application.num_1110.executor": "Run",
+    "Application.num_1149.executor": "Run",
+    "Application.num_1196.executor": "Run",
+    "Application.num_1224.executor": "Run",
+    "Application.num_1243.executor": "Run",
+    "Application.num_1296.executor": "Run",
+    "Application.num_1349.executor": "Run",
+    "Application.num_1496.executor": "Run",
+    "Application.num_1545.executor": "Run",
+    "Application.num_1563.executor": "Run",
+    "Application.num_1617.executor": "Run",
+    "Application.num_1636.executor": "Run",
+    "Application.num_1654.executor": "Run",
+    "Application.num_1723.executor": "Run",
+    "Application.num_1837.executor": "Run",
+    "Application.num_1876.executor": "Run",
+    "Application.num_1881.executor": "Run",
+    "Application.num_1893.executor": "Run",
+    "Application.num_1991.executor": "Run",
+    "Application.num_2025.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task10.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task2_ver2.executor": "Run",
+    "Application.task3.executor": "Run",
+    "Application.task3_ver1.executor": "Run",
+    "Application.task3_ver2.executor": "Run",
+    "Application.task3_with_do_while.executor": "Run",
+    "Application.task4.executor": "Run",
+    "Application.task4_with_do_while.executor": "Run",
+    "Application.task4_with_for.executor": "Run",
+    "Application.task4_with_while.executor": "Run",
+    "Application.task5_with_do_while.executor": "Run",
+    "Application.task5_with_for.executor": "Run",
+    "Application.task5_with_while.executor": "Run",
+    "Application.task6.executor": "Run",
+    "Application.task7.executor": "Run",
+    "Application.task8.executor": "Run",
+    "Application.task9.executor": "Run",
+    "Application.timus.task_1000.Main.executor": "Run",
+    "Application.timus.task_1264.Main.executor": "Run",
+    "Application.timus.task_1293.Main.executor": "Coverage",
+    "Application.timus.task_1787.Main.executor": "Run",
+    "Application.timus.task_2066.Main.executor": "Run",
+    "Application.timus.task_2100.Main.executor": "Run",
+    "Application.timus_1264.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alex/IdeaProjects/java_core_2025-2026",
+    "onboarding.tips.debug.path": "C:/Users/alex/IdeaProjects/java_core_2025-2026/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lr1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr12.Task2" />
+  <component name="RunManager" selected="Application.num_1149">
+    <configuration name="num_1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1149" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr12.*" />
+          <option name="PATTERN" value="timus.second_semestr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr12.Task3" />
+    <configuration name="num_1224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1224" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr12.*" />
+          <option name="PATTERN" value="timus.second_semestr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr12.Task4" />
+    <configuration name="num_1617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1617" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr12.*" />
+          <option name="PATTERN" value="timus.second_semestr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr12.Task5" />
+    <configuration name="num_1723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1723" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr12.*" />
+          <option name="PATTERN" value="timus.second_semestr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr12.Task6" />
+    <configuration name="num_1881" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1881" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr12.*" />
+          <option name="PATTERN" value="timus.second_semestr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.num_1149" />
+        <item itemvalue="Application.num_1224" />
+        <item itemvalue="Application.num_1617" />
+        <item itemvalue="Application.num_1881" />
+        <item itemvalue="Application.num_1723" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777156171178</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lr12">
+      <option name="closed" value="true" />
+      <created>1779041854932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779041854932</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,7 +335,8 @@
     <MESSAGE value="lr3" />
     <MESSAGE value="lr10" />
     <MESSAGE value="lr11" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr11" />
+    <MESSAGE value="lr12" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
