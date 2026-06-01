@@ -4,27 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="lr12">
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1196.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1296.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1545.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1563.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1636.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1723.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1837.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1876.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1881.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1893.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_1991.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/second_semestr/num_2025.java" afterDir="false" />
+    <list default="true" id="0716847f-25dc-4110-bde0-df4d927d744a" name="Changes" comment="задачи с timus за весь семестр">
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Examples/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task1/Task1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task1/Task1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task1/Task1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task2/Task2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task2/Task2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task3/Task3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr13/Task3/Task3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr11/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr11/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr11/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr11/Task7.java" afterDir="false" />
@@ -66,6 +67,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="35cS8MrqC4CDGC6Jtiz9VU9HL3F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,9 +78,19 @@
   "keyToString": {
     "Application.CreateXMLFile.executor": "Run",
     "Application.Ex1.executor": "Run",
+    "Application.Ex10.executor": "Run",
+    "Application.Ex11.executor": "Run",
+    "Application.Ex12.executor": "Run",
+    "Application.Ex13.executor": "Run",
+    "Application.Ex14.executor": "Run",
     "Application.Ex2.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
+    "Application.Ex5.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
+    "Application.Ex9.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example10.executor": "Run",
     "Application.Example11.executor": "Run",
@@ -104,8 +118,14 @@
     "Application.ReadExcelFile.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10.executor": "Run",
+    "Application.Task1_1.executor": "Run",
+    "Application.Task1_2.executor": "Run",
+    "Application.Task1_3.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.Task2_1.executor": "Run",
+    "Application.Task2_2.executor": "Run",
     "Application.Task3.executor": "Run",
+    "Application.Task3_1.executor": "Run",
     "Application.Task4.executor": "Run",
     "Application.Task5.executor": "Run",
     "Application.Task6.executor": "Run",
@@ -186,14 +206,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lr1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lr13.Examples" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.num_1149">
-    <configuration name="num_1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1149" />
+  <component name="RunManager" selected="Application.Task3_2">
+    <configuration name="Task1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Task1.Task1_3" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.second_semestr.*" />
+          <option name="PATTERN" value="lr13.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_1224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1224" />
+    <configuration name="Task2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Task2.Task2_1" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.second_semestr.*" />
+          <option name="PATTERN" value="lr13.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_1617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1617" />
+    <configuration name="Task2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Task2.Task2_2" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.second_semestr.*" />
+          <option name="PATTERN" value="lr13.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_1723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1723" />
+    <configuration name="Task3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Task3.Task3_1" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.second_semestr.*" />
+          <option name="PATTERN" value="lr13.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="num_1881" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.second_semestr.num_1881" />
+    <configuration name="Task3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr13.Task3.Task3_2" />
       <module name="java_core_2025-2026" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.second_semestr.*" />
+          <option name="PATTERN" value="lr13.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.num_1149" />
-        <item itemvalue="Application.num_1224" />
-        <item itemvalue="Application.num_1617" />
-        <item itemvalue="Application.num_1881" />
-        <item itemvalue="Application.num_1723" />
+        <item itemvalue="Application.Task3_2" />
+        <item itemvalue="Application.Task3_1" />
+        <item itemvalue="Application.Task2_2" />
+        <item itemvalue="Application.Task2_1" />
+        <item itemvalue="Application.Task1_3" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779041854932</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="задачи с timus за весь семестр">
+      <option name="closed" value="true" />
+      <created>1780254511034</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780254511034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -336,7 +367,8 @@
     <MESSAGE value="lr10" />
     <MESSAGE value="lr11" />
     <MESSAGE value="lr12" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr12" />
+    <MESSAGE value="задачи с timus за весь семестр" />
+    <option name="LAST_COMMIT_MESSAGE" value="задачи с timus за весь семестр" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
